@@ -1,2 +1,2 @@
 # Delta
-Git and Git-Hub
+Git and Git-Hub.
